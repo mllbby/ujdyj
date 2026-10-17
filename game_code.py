@@ -926,3 +926,6 @@ while running:
 
 
 pygame.quit()
+
+
+щошщоощощ
